@@ -1,0 +1,1252 @@
+{
+  "teams": [
+    {
+      "team_name": "Anaheim Ducks",
+      "city": "Anaheim",
+      "venue": "Honda Center",
+      "state": "California",
+      "league": "NHL",
+      "location": "Anaheim, California"
+    },
+    {
+      "team_name": "Boston Bruins",
+      "city": "Boston",
+      "venue": "TD Garden",
+      "state": "Massachusetts",
+      "league": "NHL",
+      "location": "Boston, Massachusetts"
+    },
+    {
+      "team_name": "Buffalo Sabres",
+      "city": "Buffalo",
+      "venue": "KeyBank Center",
+      "state": "New York",
+      "league": "NHL",
+      "location": "Buffalo, New York"
+    },
+    {
+      "team_name": "Detroit Red Wings",
+      "city": "Detroit",
+      "venue": "Little Caesars Arena",
+      "state": "Michigan",
+      "league": "NHL",
+      "location": "Detroit, Michigan"
+    },
+    {
+      "team_name": "Florida Panthers",
+      "city": "Sunrise",
+      "venue": "BB&T Center",
+      "state": "Florida",
+      "league": "NHL",
+      "location": "Sunrise, Florida"
+    },
+    {
+      "team_name": "Montreal Canadiens",
+      "city": "Montreal",
+      "venue": "Bell Centre",
+      "state": "Quebec",
+      "league": "NHL",
+      "location": "Montreal, Quebec"
+    },
+    {
+      "team_name": "Ottawa Senators",
+      "city": "Ottawa",
+      "venue": "Canadian Tire Centre",
+      "state": "Ontario",
+      "league": "NHL",
+      "location": "Ottawa, Ontario"
+    },
+    {
+      "team_name": "Tampa Bay Lightning",
+      "city": "Tampa",
+      "venue": "Amalie Arena",
+      "state": "Florida",
+      "league": "NHL",
+      "location": "Tampa, Florida"
+    },
+    {
+      "team_name": "Toronto Maple Leafs",
+      "city": "Toronto",
+      "venue": "Scotiabank Arena",
+      "state": "Ontario",
+      "league": "NHL",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "team_name": "Carolina Hurricanes",
+      "city": "Raleigh",
+      "venue": "PNC Arena",
+      "state": "North Carolina",
+      "league": "NHL",
+      "location": "Raleigh, North Carolina"
+    },
+    {
+      "team_name": "Columbus Blue Jackets",
+      "city": "Columbus",
+      "venue": "Nationwide Arena",
+      "state": "Ohio",
+      "league": "NHL",
+      "location": "Columbus, Ohio"
+    },
+    {
+      "team_name": "New Jersey Devils",
+      "city": "Newark",
+      "venue": "Prudential Center",
+      "state": "New Jersey",
+      "league": "NHL",
+      "location": "Newark, New Jersey"
+    },
+    {
+      "team_name": "New York Islanders",
+      "city": "New York City",
+      "venue": "Barclays Center",
+      "state": "New York",
+      "league": "NHL",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "New York Rangers",
+      "city": "New York City",
+      "venue": "Madison Square Garden",
+      "state": "New York",
+      "league": "NHL",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "Philadelphia Flyers",
+      "city": "Philadelphia",
+      "venue": "Wells Fargo Center",
+      "state": "Pennsylvania",
+      "league": "NHL",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "team_name": "Pittsburgh Penguins",
+      "city": "Pittsburgh",
+      "venue": "PPG Paints Arena",
+      "state": "Pennsylvania",
+      "league": "NHL",
+      "location": "Pittsburgh, Pennsylvania"
+    },
+    {
+      "team_name": "Washington Capitals",
+      "city": "Washington",
+      "venue": "Capital One Arena",
+      "state": "D.C.",
+      "league": "NHL",
+      "location": "Washington, D.C."
+    },
+    {
+      "team_name": "Chicago Blackhawks",
+      "city": "Chicago",
+      "venue": "United Center",
+      "state": "Illinois",
+      "league": "NHL",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "team_name": "Colorado Avalanche",
+      "city": "Denver",
+      "venue": "Pepsi Center",
+      "state": "Colorado",
+      "league": "NHL",
+      "location": "Denver, Colorado"
+    },
+    {
+      "team_name": "Dallas Stars",
+      "city": "Dallas",
+      "venue": "American Airlines Center",
+      "state": "Texas",
+      "league": "NHL",
+      "location": "Dallas, Texas"
+    },
+    {
+      "team_name": "Minnesota Wild",
+      "city": "Saint Paul",
+      "venue": "Xcel Energy Center",
+      "state": "Minnesota",
+      "league": "NHL",
+      "location": "Saint Paul, Minnesota"
+    },
+    {
+      "team_name": "Nashville Predators",
+      "city": "Nashville",
+      "venue": "Bridgestone Arena",
+      "state": "Tennessee",
+      "league": "NHL",
+      "location": "Nashville, Tennessee"
+    },
+    {
+      "team_name": "St. Louis Blues",
+      "city": "St. Louis",
+      "venue": "Enterprise Center",
+      "state": "Missouri",
+      "league": "NHL",
+      "location": "St. Louis, Missouri"
+    },
+    {
+      "team_name": "Winnipeg Jets",
+      "city": "Winnipeg",
+      "venue": "Bell MTS Place",
+      "state": "Manitoba",
+      "league": "NHL",
+      "location": "Winnipeg, Manitoba"
+    },
+    {
+      "team_name": "Arizona Coyotes",
+      "city": "Glendale",
+      "venue": "Gila River Arena",
+      "state": "Arizona",
+      "league": "NHL",
+      "location": "Glendale, Arizona"
+    },
+    {
+      "team_name": "Calgary Flames",
+      "city": "Calgary",
+      "venue": "Scotiabank Saddledome",
+      "state": "Alberta",
+      "league": "NHL",
+      "location": "Calgary, Alberta"
+    },
+    {
+      "team_name": "Edmonton Oilers",
+      "city": "Edmonton",
+      "venue": "Rogers Place",
+      "state": "Alberta",
+      "league": "NHL",
+      "location": "Edmonton, Alberta"
+    },
+    {
+      "team_name": "Los Angeles Kings",
+      "city": "Los Angeles",
+      "venue": "Staples Center",
+      "state": "California",
+      "league": "NHL",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "San Jose Sharks",
+      "city": "San Jose",
+      "venue": "SAP Center",
+      "state": "California",
+      "league": "NHL",
+      "location": "San Jose, California"
+    },
+    {
+      "team_name": "Vancouver Canucks",
+      "city": "Vancouver",
+      "venue": "Rogers Arena",
+      "state": "British Columbia",
+      "league": "NHL",
+      "location": "Vancouver, British Columbia"
+    },
+    {
+      "team_name": "Vegas Golden Knights",
+      "city": "Paradise",
+      "venue": "T-Mobile Arena",
+      "state": "Nevada",
+      "league": "NHL",
+      "location": "Paradise, Nevada"
+    },
+    {
+      "team_name": "Buffalo Bills",
+      "city": "Orchard Park",
+      "venue": "New Era Field",
+      "state": "New York",
+      "league": "NFL",
+      "location": "Orchard Park, New York"
+    },
+    {
+      "team_name": "Miami Dolphins",
+      "city": "Miami Gardens",
+      "venue": "Hard Rock Stadium",
+      "state": "Florida",
+      "league": "NFL",
+      "location": "Miami Gardens, Florida"
+    },
+    {
+      "team_name": "New England Patriots",
+      "city": "Foxborough",
+      "venue": "Gillette Stadium",
+      "state": "Massachusetts",
+      "league": "NFL",
+      "location": "Foxborough, Massachusetts"
+    },
+    {
+      "team_name": "New York Jets",
+      "city": "East Rutherford",
+      "venue": "MetLife Stadium",
+      "state": "New Jersey",
+      "league": "NFL",
+      "location": "East Rutherford, New Jersey"
+    },
+    {
+      "team_name": "Baltimore Ravens",
+      "city": "Baltimore",
+      "venue": "M&T Bank Stadium",
+      "state": "Maryland",
+      "league": "NFL",
+      "location": "Baltimore, Maryland"
+    },
+    {
+      "team_name": "Cincinnati Bengals",
+      "city": "Cincinnati",
+      "venue": "Paul Brown Stadium",
+      "state": "Ohio",
+      "league": "NFL",
+      "location": "Cincinnati, Ohio"
+    },
+    {
+      "team_name": "Cleveland Browns",
+      "city": "Cleveland",
+      "venue": "FirstEnergy Stadium",
+      "state": "Ohio",
+      "league": "NFL",
+      "location": "Cleveland, Ohio"
+    },
+    {
+      "team_name": "Pittsburgh Steelers",
+      "city": "Pittsburgh",
+      "venue": "Heinz Field",
+      "state": "Pennsylvania",
+      "league": "NFL",
+      "location": "Pittsburgh, Pennsylvania"
+    },
+    {
+      "team_name": "Houston Texans",
+      "city": "Houston",
+      "venue": "NRG Stadium",
+      "state": "Texas",
+      "league": "NFL",
+      "location": "Houston, Texas"
+    },
+    {
+      "team_name": "Indianapolis Colts",
+      "city": "Indianapolis",
+      "venue": "Lucas Oil Stadium",
+      "state": "Indiana",
+      "league": "NFL",
+      "location": "Indianapolis, Indiana"
+    },
+    {
+      "team_name": "Jacksonville Jaguars",
+      "city": "Jacksonville",
+      "venue": "TIAA Bank Field",
+      "state": "Florida",
+      "league": "NFL",
+      "location": "Jacksonville, Florida"
+    },
+    {
+      "team_name": "Tennessee Titans",
+      "city": "Nashville",
+      "venue": "Nissan Stadium",
+      "state": "Tennessee",
+      "league": "NFL",
+      "location": "Nashville, Tennessee"
+    },
+    {
+      "team_name": "Denver Broncos",
+      "city": "Denver",
+      "venue": "Broncos Stadium at Mile High",
+      "state": "Colorado",
+      "league": "NFL",
+      "location": "Denver, Colorado"
+    },
+    {
+      "team_name": "Kansas City Chiefs",
+      "city": "Kansas City",
+      "venue": "Arrowhead Stadium",
+      "state": "Missouri",
+      "league": "NFL",
+      "location": "Kansas City, Missouri"
+    },
+    {
+      "team_name": "Los Angeles Chargers",
+      "city": "Carson",
+      "venue": "Dignity Health Sports Park",
+      "state": "California",
+      "league": "NFL",
+      "location": "Carson, California"
+    },
+    {
+      "team_name": "Oakland Raiders",
+      "city": "Oakland",
+      "venue": "Oakland–Alameda County Coliseum",
+      "state": "California",
+      "league": "NFL",
+      "location": "Oakland, California"
+    },
+    {
+      "team_name": "Dallas Cowboys",
+      "city": "Arlington",
+      "venue": "AT&T Stadium",
+      "state": "Texas",
+      "league": "NFL",
+      "location": "Arlington, Texas"
+    },
+    {
+      "team_name": "New York Giants",
+      "city": "East Rutherford",
+      "venue": "MetLife Stadium",
+      "state": "New Jersey",
+      "league": "NFL",
+      "location": "East Rutherford, New Jersey"
+    },
+    {
+      "team_name": "Philadelphia Eagles",
+      "city": "Philadelphia",
+      "venue": "Lincoln Financial Field",
+      "state": "Pennsylvania",
+      "league": "NFL",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "team_name": "Washington Redskins",
+      "city": "Landover",
+      "venue": "FedExField",
+      "state": "Maryland",
+      "league": "NFL",
+      "location": "Landover, Maryland"
+    },
+    {
+      "team_name": "Chicago Bears",
+      "city": "Chicago",
+      "venue": "Soldier Field",
+      "state": "Illinois",
+      "league": "NFL",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "team_name": "Detroit Lions",
+      "city": "Detroit",
+      "venue": "Ford Field",
+      "state": "Michigan",
+      "league": "NFL",
+      "location": "Detroit, Michigan"
+    },
+    {
+      "team_name": "Green Bay Packers",
+      "city": "Green Bay",
+      "venue": "Lambeau Field",
+      "state": "Wisconsin",
+      "league": "NFL",
+      "location": "Green Bay, Wisconsin"
+    },
+    {
+      "team_name": "Minnesota Vikings",
+      "city": "Minneapolis",
+      "venue": "U.S. Bank Stadium",
+      "state": "Minnesota",
+      "league": "NFL",
+      "location": "Minneapolis, Minnesota"
+    },
+    {
+      "team_name": "Atlanta Falcons",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "state": "Georgia",
+      "league": "NFL",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "team_name": "Carolina Panthers",
+      "city": "Charlotte",
+      "venue": "Bank of America Stadium",
+      "state": "North Carolina",
+      "league": "NFL",
+      "location": "Charlotte, North Carolina"
+    },
+    {
+      "team_name": "New Orleans Saints",
+      "city": "New Orleans",
+      "venue": "Mercedes-Benz Superdome",
+      "state": "Louisiana",
+      "league": "NFL",
+      "location": "New Orleans, Louisiana"
+    },
+    {
+      "team_name": "Tampa Bay Buccaneers",
+      "city": "Tampa",
+      "venue": "Raymond James Stadium",
+      "state": "Florida",
+      "league": "NFL",
+      "location": "Tampa, Florida"
+    },
+    {
+      "team_name": "Arizona Cardinals",
+      "city": "Glendale",
+      "venue": "State Farm Stadium",
+      "state": "Arizona",
+      "league": "NFL",
+      "location": "Glendale, Arizona"
+    },
+    {
+      "team_name": "Los Angeles Rams",
+      "city": "Los Angeles",
+      "venue": "Los Angeles Memorial Coliseum",
+      "state": "California",
+      "league": "NFL",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "San Francisco 49ers",
+      "city": "Santa Clara",
+      "venue": "Levi's Stadium",
+      "state": "California",
+      "league": "NFL",
+      "location": "Santa Clara, California"
+    },
+    {
+      "team_name": "Seattle Seahawks",
+      "city": "Seattle",
+      "venue": "CenturyLink Field",
+      "state": "Washington",
+      "league": "NFL",
+      "location": "Seattle, Washington"
+    },
+    {
+      "team_name": "Boston Celtics",
+      "city": "Boston",
+      "venue": "TD Garden",
+      "state": "Massachusetts",
+      "league": "NBA",
+      "location": "Boston, Massachusetts"
+    },
+    {
+      "team_name": "Brooklyn Nets",
+      "city": "New York City",
+      "venue": "Barclays Center",
+      "state": "New York",
+      "league": "NBA",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "New York Knicks",
+      "city": "New York City",
+      "venue": "Madison Square Garden",
+      "state": "New York",
+      "league": "NBA",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "venue": "Wells Fargo Center",
+      "state": "Pennsylvania",
+      "league": "NBA",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "team_name": "Toronto Raptors",
+      "city": "Toronto",
+      "venue": "Scotiabank Arena",
+      "state": "Ontario",
+      "league": "NBA",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "team_name": "Chicago Bulls",
+      "city": "Chicago",
+      "venue": "United Center",
+      "state": "Illinois",
+      "league": "NBA",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "team_name": "Cleveland Cavaliers",
+      "city": "Cleveland",
+      "venue": "Rocket Mortgage FieldHouse",
+      "state": "Ohio",
+      "league": "NBA",
+      "location": "Cleveland, Ohio"
+    },
+    {
+      "team_name": "Detroit Pistons",
+      "city": "Detroit",
+      "venue": "Little Caesars Arena",
+      "state": "Michigan",
+      "league": "NBA",
+      "location": "Detroit, Michigan"
+    },
+    {
+      "team_name": "Indiana Pacers",
+      "city": "Indianapolis",
+      "venue": "Bankers Life Fieldhouse",
+      "state": "Indiana",
+      "league": "NBA",
+      "location": "Indianapolis, Indiana"
+    },
+    {
+      "team_name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "venue": "Fiserv Forum",
+      "state": "Wisconsin",
+      "league": "NBA",
+      "location": "Milwaukee, Wisconsin"
+    },
+    {
+      "team_name": "Atlanta Hawks",
+      "city": "Atlanta",
+      "venue": "State Farm Arena",
+      "state": "Georgia",
+      "league": "NBA",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "team_name": "Charlotte Hornets",
+      "city": "Charlotte",
+      "venue": "Spectrum Center",
+      "state": "North Carolina",
+      "league": "NBA",
+      "location": "Charlotte, North Carolina"
+    },
+    {
+      "team_name": "Miami Heat",
+      "city": "Miami",
+      "venue": "American Airlines Arena",
+      "state": "Florida",
+      "league": "NBA",
+      "location": "Miami, Florida"
+    },
+    {
+      "team_name": "Orlando Magic",
+      "city": "Orlando",
+      "venue": "Amway Center",
+      "state": "Florida",
+      "league": "NBA",
+      "location": "Orlando, Florida"
+    },
+    {
+      "team_name": "Washington Wizards",
+      "city": "Washington",
+      "venue": "Capital One Arena",
+      "state": "D.C.",
+      "league": "NBA",
+      "location": "Washington, D.C."
+    },
+    {
+      "team_name": "Denver Nuggets",
+      "city": "Denver",
+      "venue": "Pepsi Center",
+      "state": "Colorado",
+      "league": "NBA",
+      "location": "Denver, Colorado"
+    },
+    {
+      "team_name": "Minnesota Timberwolves",
+      "city": "Minneapolis",
+      "venue": "Target Center",
+      "state": "Minnesota",
+      "league": "NBA",
+      "location": "Minneapolis, Minnesota"
+    },
+    {
+      "team_name": "Oklahoma City Thunder",
+      "city": "Oklahoma City",
+      "venue": "Chesapeake Energy Arena",
+      "state": "Oklahoma",
+      "league": "NBA",
+      "location": "Oklahoma City, Oklahoma"
+    },
+    {
+      "team_name": "Portland Trail Blazers",
+      "city": "Portland",
+      "venue": "Moda Center",
+      "state": "Oregon",
+      "league": "NBA",
+      "location": "Portland, Oregon"
+    },
+    {
+      "team_name": "Utah Jazz",
+      "city": "Salt Lake City",
+      "venue": "Vivint Smart Home Arena",
+      "state": "Utah",
+      "league": "NBA",
+      "location": "Salt Lake City, Utah"
+    },
+    {
+      "team_name": "Golden State Warriors",
+      "city": "San Francisco",
+      "venue": "Chase Center",
+      "state": "California",
+      "league": "NBA",
+      "location": "San Francisco, California"
+    },
+    {
+      "team_name": "Los Angeles Clippers",
+      "city": "Los Angeles",
+      "venue": "Staples Center",
+      "state": "California",
+      "league": "NBA",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "venue": "Staples Center",
+      "state": "California",
+      "league": "NBA",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "Phoenix Suns",
+      "city": "Phoenix",
+      "venue": "Talking Stick Resort Arena",
+      "state": "Arizona",
+      "league": "NBA",
+      "location": "Phoenix, Arizona"
+    },
+    {
+      "team_name": "Sacramento Kings",
+      "city": "Sacramento",
+      "venue": "Golden 1 Center",
+      "state": "California",
+      "league": "NBA",
+      "location": "Sacramento, California"
+    },
+    {
+      "team_name": "Dallas Mavericks",
+      "city": "Dallas",
+      "venue": "American Airlines Center",
+      "state": "Texas",
+      "league": "NBA",
+      "location": "Dallas, Texas"
+    },
+    {
+      "team_name": "Houston Rockets",
+      "city": "Houston",
+      "venue": "Toyota Center",
+      "state": "Texas",
+      "league": "NBA",
+      "location": "Houston, Texas"
+    },
+    {
+      "team_name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "venue": "FedExForum",
+      "state": "Tennessee",
+      "league": "NBA",
+      "location": "Memphis, Tennessee"
+    },
+    {
+      "team_name": "New Orleans Pelicans",
+      "city": "New Orleans",
+      "venue": "Smoothie King Center",
+      "state": "Louisiana",
+      "league": "NBA",
+      "location": "New Orleans, Louisiana"
+    },
+    {
+      "team_name": "San Antonio Spurs",
+      "city": "San Antonio",
+      "venue": "AT&T Center",
+      "state": "Texas",
+      "league": "NBA",
+      "location": "San Antonio, Texas"
+    },
+    {
+      "team_name": "Baltimore Orioles",
+      "city": "Baltimore",
+      "venue": "Oriole Park at Camden Yards",
+      "state": "Maryland",
+      "league": "MLB",
+      "location": "Baltimore, Maryland"
+    },
+    {
+      "team_name": "Boston Red Sox",
+      "city": "Boston",
+      "venue": "Fenway Park",
+      "state": "Massachusetts",
+      "league": "MLB",
+      "location": "Boston, Massachusetts"
+    },
+    {
+      "team_name": "New York Yankees",
+      "city": "New York City",
+      "venue": "Yankee Stadium",
+      "state": "New York",
+      "league": "MLB",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "Tampa Bay Rays",
+      "city": "St. Petersburg",
+      "venue": "Tropicana Field",
+      "state": "Florida",
+      "league": "MLB",
+      "location": "St. Petersburg, Florida"
+    },
+    {
+      "team_name": "Toronto Blue Jays",
+      "city": "Toronto",
+      "venue": "Rogers Centre",
+      "state": "Ontario",
+      "league": "MLB",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "team_name": "Chicago White Sox",
+      "city": "Chicago",
+      "venue": "Guaranteed Rate Field",
+      "state": "Illinois",
+      "league": "MLB",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "team_name": "Cleveland Indians",
+      "city": "Cleveland",
+      "venue": "Progressive Field",
+      "state": "Ohio",
+      "league": "MLB",
+      "location": "Cleveland, Ohio"
+    },
+    {
+      "team_name": "Detroit Tigers",
+      "city": "Detroit",
+      "venue": "Comerica Park",
+      "state": "Michigan",
+      "league": "MLB",
+      "location": "Detroit, Michigan"
+    },
+    {
+      "team_name": "Kansas City Royals",
+      "city": "Kansas City",
+      "venue": "Kauffman Stadium",
+      "state": "Missouri",
+      "league": "MLB",
+      "location": "Kansas City, Missouri"
+    },
+    {
+      "team_name": "Minnesota Twins",
+      "city": "Minneapolis",
+      "venue": "Target Field",
+      "state": "Minnesota",
+      "league": "MLB",
+      "location": "Minneapolis, Minnesota"
+    },
+    {
+      "team_name": "Houston Astros",
+      "city": "Houston",
+      "venue": "Minute Maid Park",
+      "state": "Texas",
+      "league": "MLB",
+      "location": "Houston, Texas"
+    },
+    {
+      "team_name": "Los Angeles Angels",
+      "city": "Anaheim",
+      "venue": "Angel Stadium",
+      "state": "California",
+      "league": "MLB",
+      "location": "Anaheim, California"
+    },
+    {
+      "team_name": "Oakland Athletics",
+      "city": "Oakland",
+      "venue": "RingCentral Coliseum",
+      "state": "California",
+      "league": "MLB",
+      "location": "Oakland, California"
+    },
+    {
+      "team_name": "Seattle Mariners",
+      "city": "Seattle",
+      "venue": "T-Mobile Park",
+      "state": "Washington",
+      "league": "MLB",
+      "location": "Seattle, Washington"
+    },
+    {
+      "team_name": "Texas Rangers",
+      "city": "Arlington",
+      "venue": "Globe Life Park in Arlington",
+      "state": "Texas",
+      "league": "MLB",
+      "location": "Arlington, Texas"
+    },
+    {
+      "team_name": "Atlanta Braves",
+      "city": "Atlanta",
+      "venue": "SunTrust Park",
+      "state": "Georgia",
+      "league": "MLB",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "team_name": "Miami Marlins",
+      "city": "Miami",
+      "venue": "Marlins Park",
+      "state": "Florida",
+      "league": "MLB",
+      "location": "Miami, Florida"
+    },
+    {
+      "team_name": "New York Mets",
+      "city": "New York City",
+      "venue": "Citi Field",
+      "state": "New York",
+      "league": "MLB",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "Philadelphia Phillies",
+      "city": "Philadelphia",
+      "venue": "Citizens Bank Park",
+      "state": "Pennsylvania",
+      "league": "MLB",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "team_name": "Washington Nationals",
+      "city": "Washington",
+      "venue": "Nationals Park",
+      "state": "D.C.",
+      "league": "MLB",
+      "location": "Washington, D.C."
+    },
+    {
+      "team_name": "Chicago Cubs",
+      "city": "Chicago",
+      "venue": "Wrigley Field",
+      "state": "Illinois",
+      "league": "MLB",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "team_name": "Cincinnati Reds",
+      "city": "Cincinnati",
+      "venue": "Great American Ball Park",
+      "state": "Ohio",
+      "league": "MLB",
+      "location": "Cincinnati, Ohio"
+    },
+    {
+      "team_name": "Milwaukee Brewers",
+      "city": "Milwaukee",
+      "venue": "Miller Park",
+      "state": "Wisconsin",
+      "league": "MLB",
+      "location": "Milwaukee, Wisconsin"
+    },
+    {
+      "team_name": "Pittsburgh Pirates",
+      "city": "Pittsburgh",
+      "venue": "PNC Park",
+      "state": "Pennsylvania",
+      "league": "MLB",
+      "location": "Pittsburgh, Pennsylvania"
+    },
+    {
+      "team_name": "St. Louis Cardinals",
+      "city": "St. Louis",
+      "venue": "Busch Stadium",
+      "state": "Missouri",
+      "league": "MLB",
+      "location": "St. Louis, Missouri"
+    },
+    {
+      "team_name": "Arizona Diamondbacks",
+      "city": "Phoenix",
+      "venue": "Chase Field",
+      "state": "Arizona",
+      "league": "MLB",
+      "location": "Phoenix, Arizona"
+    },
+    {
+      "team_name": "Colorado Rockies",
+      "city": "Denver",
+      "venue": "Coors Field",
+      "state": "Colorado",
+      "league": "MLB",
+      "location": "Denver, Colorado"
+    },
+    {
+      "team_name": "Los Angeles Dodgers",
+      "city": "Los Angeles",
+      "venue": "Dodger Stadium",
+      "state": "California",
+      "league": "MLB",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "San Diego Padres",
+      "city": "San Diego",
+      "venue": "Petco Park",
+      "state": "California",
+      "league": "MLB",
+      "location": "San Diego, California"
+    },
+    {
+      "team_name": "San Francisco Giants",
+      "city": "San Francisco",
+      "venue": "Oracle Park",
+      "state": "California",
+      "league": "MLB",
+      "location": "San Francisco, California"
+    },
+    {
+      "team_name": "Atlanta United FC",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "state": "Georgia",
+      "league": "MLS",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "team_name": "Chicago Fire",
+      "city": "Bridgeview",
+      "venue": "SeatGeek Stadium",
+      "state": "Illinois",
+      "league": "MLS",
+      "location": "Bridgeview, Illinois"
+    },
+    {
+      "team_name": "FC Cincinnati",
+      "city": "Cincinnati",
+      "venue": "Nippert Stadium",
+      "state": "Ohio",
+      "league": "MLS",
+      "location": "Cincinnati, Ohio"
+    },
+    {
+      "team_name": "Columbus Crew SC",
+      "city": "Columbus",
+      "venue": "Mapfre Stadium",
+      "state": "Ohio",
+      "league": "MLS",
+      "location": "Columbus, Ohio"
+    },
+    {
+      "team_name": "D.C. United",
+      "city": "Washington",
+      "venue": "Audi Field",
+      "state": "D.C.",
+      "league": "MLS",
+      "location": "Washington, D.C."
+    },
+    {
+      "team_name": "Montreal Impact",
+      "city": "Montreal",
+      "venue": "Saputo Stadium",
+      "state": "Quebec",
+      "league": "MLS",
+      "location": "Montreal, Quebec"
+    },
+    {
+      "team_name": "New England Revolution",
+      "city": "Foxborough",
+      "venue": "Gillette Stadium",
+      "state": "Massachusetts",
+      "league": "MLS",
+      "location": "Foxborough, Massachusetts"
+    },
+    {
+      "team_name": "New York City FC",
+      "city": "New York City",
+      "venue": "Yankee Stadium",
+      "state": "New York",
+      "league": "MLS",
+      "location": "New York City, New York"
+    },
+    {
+      "team_name": "New York Red Bulls",
+      "city": "Harrison",
+      "venue": "Red Bull Arena",
+      "state": "New Jersey",
+      "league": "MLS",
+      "location": "Harrison, New Jersey"
+    },
+    {
+      "team_name": "Orlando City SC",
+      "city": "Orlando",
+      "venue": "Exploria Stadium",
+      "state": "Florida",
+      "league": "MLS",
+      "location": "Orlando, Florida"
+    },
+    {
+      "team_name": "Philadelphia Union",
+      "city": "Chester",
+      "venue": "Talen Energy Stadium",
+      "state": "Pennsylvania",
+      "league": "MLS",
+      "location": "Chester, Pennsylvania"
+    },
+    {
+      "team_name": "Toronto FC",
+      "city": "Toronto",
+      "venue": "BMO Field3",
+      "state": "Ontario",
+      "league": "MLS",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "team_name": "Colorado Rapids",
+      "city": "Commerce City",
+      "venue": "Dick's Sporting Goods Park",
+      "state": "Colorado",
+      "league": "MLS",
+      "location": "Commerce City, Colorado"
+    },
+    {
+      "team_name": "FC Dallas",
+      "city": "Frisco",
+      "venue": "Toyota Stadium",
+      "state": "Texas",
+      "league": "MLS",
+      "location": "Frisco, Texas"
+    },
+    {
+      "team_name": "Houston Dynamo",
+      "city": "Houston",
+      "venue": "BBVA Stadium",
+      "state": "Texas",
+      "league": "MLS",
+      "location": "Houston, Texas"
+    },
+    {
+      "team_name": "LA Galaxy",
+      "city": "Carson",
+      "venue": "Dignity Health Sports Park",
+      "state": "California",
+      "league": "MLS",
+      "location": "Carson, California"
+    },
+    {
+      "team_name": "Los Angeles FC",
+      "city": "Los Angeles",
+      "venue": "Banc of California Stadium",
+      "state": "California",
+      "league": "MLS",
+      "location": "Los Angeles, California"
+    },
+    {
+      "team_name": "Minnesota United FC",
+      "city": "Saint Paul",
+      "venue": "Allianz Field",
+      "state": "Minnesota",
+      "league": "MLS",
+      "location": "Saint Paul, Minnesota"
+    },
+    {
+      "team_name": "Portland Timbers",
+      "city": "Portland",
+      "venue": "Providence Park",
+      "state": "Oregon",
+      "league": "MLS",
+      "location": "Portland, Oregon"
+    },
+    {
+      "team_name": "Real Salt Lake",
+      "city": "Sandy",
+      "venue": "Rio Tinto Stadium",
+      "state": "Utah",
+      "league": "MLS",
+      "location": "Sandy, Utah"
+    },
+    {
+      "team_name": "San Jose Earthquakes",
+      "city": "San Jose",
+      "venue": "Avaya Stadium",
+      "state": "California",
+      "league": "MLS",
+      "location": "San Jose, California"
+    },
+    {
+      "team_name": "Seattle Sounders FC",
+      "city": "Seattle",
+      "venue": "CenturyLink Field",
+      "state": "Washington",
+      "league": "MLS",
+      "location": "Seattle, Washington"
+    },
+    {
+      "team_name": "Sporting Kansas City",
+      "city": "Kansas City",
+      "venue": "Children's Mercy Park",
+      "state": "Kansas",
+      "league": "MLS",
+      "location": "Kansas City, Kansas"
+    },
+    {
+      "team_name": "Vancouver Whitecaps FC",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "state": "British Columbia",
+      "league": "MLS",
+      "location": "Vancouver, British Columbia"
+    },
+    {
+      "team_name": "Hamilton Tiger-Cats",
+      "city": "Hamilton",
+      "venue": "Tim Hortons Field",
+      "state": "Ontario",
+      "league": "CFL",
+      "location": "Hamilton, Ontario"
+    },
+    {
+      "team_name": "Montreal Alouettes",
+      "city": "Montreal",
+      "venue": "Percival Molson Memorial Stadium",
+      "state": "Quebec",
+      "league": "CFL",
+      "location": "Montreal, Quebec"
+    },
+    {
+      "team_name": "Ottawa Redblacks",
+      "city": "Ottawa",
+      "venue": "TD Place Stadium",
+      "state": "Ontario",
+      "league": "CFL",
+      "location": "Ottawa, Ontario"
+    },
+    {
+      "team_name": "Toronto Argonauts",
+      "city": "Toronto",
+      "venue": "BMO Field",
+      "state": "Ontario",
+      "league": "CFL",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "team_name": "BC Lions",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "state": "British Columbia",
+      "league": "CFL",
+      "location": "Vancouver, British Columbia"
+    },
+    {
+      "team_name": "Calgary Stampeders",
+      "city": "Calgary",
+      "venue": "McMahon Stadium",
+      "state": "Alberta",
+      "league": "CFL",
+      "location": "Calgary, Alberta"
+    },
+    {
+      "team_name": "Edmonton Eskimos",
+      "city": "Edmonton",
+      "venue": "The Brick Field at Commonwealth Stadium",
+      "state": "Alberta",
+      "league": "CFL",
+      "location": "Edmonton, Alberta"
+    },
+    {
+      "team_name": "Saskatchewan Roughriders",
+      "city": "Regina",
+      "venue": "Mosaic Stadium",
+      "state": "Saskatchewan",
+      "league": "CFL",
+      "location": "Regina, Saskatchewan"
+    },
+    {
+      "team_name": "Winnipeg Blue Bombers",
+      "city": "Winnipeg",
+      "venue": "IG Field",
+      "state": "Manitoba",
+      "league": "CFL",
+      "location": "Winnipeg, Manitoba"
+    }
+  ]
+}

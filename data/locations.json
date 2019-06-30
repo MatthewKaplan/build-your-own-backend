@@ -1,0 +1,369 @@
+{
+  "locations": [
+    {
+      "city": "Anaheim",
+      "state": "California",
+      "location": "Anaheim, California"
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "location": "Boston, Massachusetts"
+    },
+    {
+      "city": "Buffalo",
+      "state": "New York",
+      "location": "Buffalo, New York"
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "location": "Detroit, Michigan"
+    },
+    {
+      "city": "Sunrise",
+      "state": "Florida",
+      "location": "Sunrise, Florida"
+    },
+    {
+      "city": "Montreal",
+      "state": "Quebec",
+      "location": "Montreal, Quebec"
+    },
+    {
+      "city": "Ottawa",
+      "state": "Ontario",
+      "location": "Ottawa, Ontario"
+    },
+    {
+      "city": "Tampa",
+      "state": "Florida",
+      "location": "Tampa, Florida"
+    },
+    {
+      "city": "Toronto",
+      "state": "Ontario",
+      "location": "Toronto, Ontario"
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "location": "Raleigh, North Carolina"
+    },
+    {
+      "city": "Columbus",
+      "state": "Ohio",
+      "location": "Columbus, Ohio"
+    },
+    {
+      "city": "Newark",
+      "state": "New Jersey",
+      "location": "Newark, New Jersey"
+    },
+    {
+      "city": "New York City",
+      "state": "New York",
+      "location": "New York City, New York"
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "location": "Pittsburgh, Pennsylvania"
+    },
+    {
+      "city": "Washington",
+      "state": "D.C.",
+      "location": "Washington, D.C."
+    },
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "location": "Chicago, Illinois"
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "location": "Denver, Colorado"
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "location": "Dallas, Texas"
+    },
+    {
+      "city": "Saint Paul",
+      "state": "Minnesota",
+      "location": "Saint Paul, Minnesota"
+    },
+    {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "location": "Nashville, Tennessee"
+    },
+    {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "location": "St. Louis, Missouri"
+    },
+    {
+      "city": "Winnipeg",
+      "state": "Manitoba",
+      "location": "Winnipeg, Manitoba"
+    },
+    {
+      "city": "Glendale",
+      "state": "Arizona",
+      "location": "Glendale, Arizona"
+    },
+    {
+      "city": "Calgary",
+      "state": "Alberta",
+      "location": "Calgary, Alberta"
+    },
+    {
+      "city": "Edmonton",
+      "state": "Alberta",
+      "location": "Edmonton, Alberta"
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "location": "Los Angeles, California"
+    },
+    {
+      "city": "San Jose",
+      "state": "California",
+      "location": "San Jose, California"
+    },
+    {
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "location": "Vancouver, British Columbia"
+    },
+    {
+      "city": "Paradise",
+      "state": "Nevada",
+      "location": "Paradise, Nevada"
+    },
+    {
+      "city": "Orchard Park",
+      "state": "New York",
+      "location": "Orchard Park, New York"
+    },
+    {
+      "city": "Miami Gardens",
+      "state": "Florida",
+      "location": "Miami Gardens, Florida"
+    },
+    {
+      "city": "Foxborough",
+      "state": "Massachusetts",
+      "location": "Foxborough, Massachusetts"
+    },
+    {
+      "city": "East Rutherford",
+      "state": "New Jersey",
+      "location": "East Rutherford, New Jersey"
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "location": "Baltimore, Maryland"
+    },
+    {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "location": "Cincinnati, Ohio"
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "location": "Houston, Texas"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "location": "Jacksonville, Florida"
+    },
+    {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "location": "Kansas City, Missouri"
+    },
+    {
+      "city": "Carson",
+      "state": "California",
+      "location": "Carson, California"
+    },
+    {
+      "city": "Oakland",
+      "state": "California",
+      "location": "Oakland, California"
+    },
+    {
+      "city": "Arlington",
+      "state": "Texas",
+      "location": "Arlington, Texas"
+    },
+    {
+      "city": "Landover",
+      "state": "Maryland",
+      "location": "Landover, Maryland"
+    },
+    {
+      "city": "Green Bay",
+      "state": "Wisconsin",
+      "location": "Green Bay, Wisconsin"
+    },
+    {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "location": "Minneapolis, Minnesota"
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "location": "Charlotte, North Carolina"
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "location": "New Orleans, Louisiana"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "California",
+      "location": "Santa Clara, California"
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "location": "Cleveland, Ohio"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "location": "Indianapolis, Indiana"
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "location": "Milwaukee, Wisconsin"
+    },
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "location": "Miami, Florida"
+    },
+    {
+      "city": "Orlando",
+      "state": "Florida",
+      "location": "Orlando, Florida"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "location": "Oklahoma City, Oklahoma"
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "location": "Portland, Oregon"
+    },
+    {
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "location": "Salt Lake City, Utah"
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "location": "San Francisco, California"
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "location": "Phoenix, Arizona"
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "location": "Sacramento, California"
+    },
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "location": "Memphis, Tennessee"
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "location": "San Antonio, Texas"
+    },
+    {
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "location": "St. Petersburg, Florida"
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "location": "Seattle, Washington"
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "location": "San Diego, California"
+    },
+    {
+      "city": "Bridgeview",
+      "state": "Illinois",
+      "location": "Bridgeview, Illinois"
+    },
+    {
+      "city": "Harrison",
+      "state": "New Jersey",
+      "location": "Harrison, New Jersey"
+    },
+    {
+      "city": "Chester",
+      "state": "Pennsylvania",
+      "location": "Chester, Pennsylvania"
+    },
+    {
+      "city": "Commerce City",
+      "state": "Colorado",
+      "location": "Commerce City, Colorado"
+    },
+    {
+      "city": "Frisco",
+      "state": "Texas",
+      "location": "Frisco, Texas"
+    },
+    {
+      "city": "Sandy",
+      "state": "Utah",
+      "location": "Sandy, Utah"
+    },
+    {
+      "city": "Hamilton",
+      "state": "Ontario",
+      "location": "Hamilton, Ontario"
+    },
+    {
+      "city": "Regina",
+      "state": "Saskatchewan",
+      "location": "Regina, Saskatchewan"
+    }
+  ]
+}
