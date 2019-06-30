@@ -14,7 +14,7 @@ const createLocation = (knex, location) => {
     .then(teamID => {
       let teamPromises = [];
       teams.teams
-        .filter(team => team.location === location.location)
+        .filter(team => team.city === location.city)
         .forEach(team => {
           teamPromises.push(createTeam(knex, team, teamID));
         });
@@ -29,7 +29,8 @@ const createTeam = (knex, team, teamID) => {
     city: team.city,
     venue: team.venue,
     state: team.state,
-    league: team.league
+    league: team.league,
+    location_id: teamID[0]
   });
 };
 

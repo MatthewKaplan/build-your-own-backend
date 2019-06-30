@@ -16,8 +16,8 @@ exports.up = function(knex) {
       table.string("venue");
       table.string("state");
       table.string("league");
-      table.integer('location_id').unsigned()
-      table.foreign('location_id').references('locations.id');
+      table.integer("location_id").unsigned();
+      table.foreign("location_id").references("locations.id");
 
       table.timestamps(true, true);
     })
